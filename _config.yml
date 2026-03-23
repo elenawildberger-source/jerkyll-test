@@ -69,3 +69,6 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+
+const GIPHY_API_KEY = "aeJvsNFoFaUcbQomN2DxGa7Ns1j6pARm";      // deinen Key hier einsetzen
+const API_LEAGUE_KEY = "fa68e9d4834b4c9aa28a2378acbda392";     // deinen Key hier einsetzen
